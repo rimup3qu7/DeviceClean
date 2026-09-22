@@ -2,7 +2,7 @@
 Erase traces of modifications and bypass automatic bans from Nintendo
 
 # 使用方法(日本語)
-DeviceClean.nroを`SD/switch/`.に入れる  
+DeviceClean.nroを`SD/switch/`に入れる  
 起動し、Aボタンを押してクリーンする  
 
 # 概要
@@ -12,7 +12,7 @@ Sysnandでのみ有効です、本来、emunandは永遠にオフラインであ
 DeviceCleanによってbanが引き起こされることはありません  
 
 # English
-Place DeviceClean.nro in `SD/switch/`.  
+Place DeviceClean.nro in `SD/switch/`  
 Launch it and press the A button to perform the cleanup.  
 
 # overview  
