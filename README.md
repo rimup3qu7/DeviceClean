@@ -1,4 +1,4 @@
-# DeviceCleam
+# DeviceClean
 Erase traces of modifications and bypass automatic bans from Nintendo
 
 # 使用方法(日本語)
